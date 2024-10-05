@@ -1,0 +1,1 @@
+# plugins-remove-image-links
